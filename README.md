@@ -1,16 +1,37 @@
-## Hello!👋 
-## You can call me Bidarra. I´m a software developer and computer scientist student (getting my bachelors degree soon).
+## Hello!👋
+
+##
+
+You can call me Bidarra.
+ <h5> I´m a software developer and computer scientist student (getting my bachelors degree soon). </h5>
+ 
+ ##
+ 
 <div align="center">
   <a href="https://github.com/MatheusBidarra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBidarra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBidarra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bidarra-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Bidarra-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bidarra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bidarra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bidarra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bidarra-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Bidarra-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  
+## 
+
+<div style="display: inline_block">
+<img align="center" alt="React" height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="React" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="React" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="React" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="React" height="30" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img align="center" alt="React" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+
+ ##
+  
+  <img align="center" alt="React" height="30" src=https://aleen42.github.io/badges/src/photoshop.svg>
+  <img align="center" alt="React" height="30" src=https://aleen42.github.io/badges/src/illustrator.svg>
 </div>
+
+  ##
+  
+  <div>
+   
+  </div>
+  
